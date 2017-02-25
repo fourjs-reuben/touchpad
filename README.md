@@ -1,2 +1,5 @@
 # touchpad
-Web Component Example for Touchpad screens
+
+Superceedded by this repository https://github.com/FourjsGenero/wc_touchpad
+
+~~ Web Component Example for Touchpad screens ~~
